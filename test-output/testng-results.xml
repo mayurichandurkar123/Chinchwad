@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[opening flipkart]]>
+    </line>
+    <line>
+      <![CDATA[opening ajio]]>
+    </line>
+    <line>
+      <![CDATA[opening amzon]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-27T01:46:13 PDT" name="Suite" finished-at="2023-07-27T01:47:48 PDT" duration-ms="94287">
+    <groups>
+    </groups>
+    <test started-at="2023-07-27T01:46:13 PDT" name="Test" finished-at="2023-07-27T01:47:48 PDT" duration-ms="94287">
+      <class name="eCommersProject.Amazon">
+        <test-method signature="azmazontest()[pri:0, instance:eCommersProject.Amazon@49e53c76]" started-at="2023-07-27T01:47:14 PDT" name="azmazontest" finished-at="2023-07-27T01:47:48 PDT" duration-ms="33920" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening amzon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- azmazontest -->
+      </class> <!-- eCommersProject.Amazon -->
+      <class name="eCommersProject.FlipKart">
+        <test-method signature="flipkartTest()[pri:0, instance:eCommersProject.FlipKart@7d8995e]" started-at="2023-07-27T01:46:13 PDT" name="flipkartTest" finished-at="2023-07-27T01:46:37 PDT" duration-ms="23824" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening flipkart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- flipkartTest -->
+      </class> <!-- eCommersProject.FlipKart -->
+      <class name="eCommersProject.Ajio">
+        <test-method signature="ajio()[pri:0, instance:eCommersProject.Ajio@38d8f54a]" started-at="2023-07-27T01:46:37 PDT" name="ajio" finished-at="2023-07-27T01:47:14 PDT" duration-ms="36470" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[opening ajio]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ajio -->
+      </class> <!-- eCommersProject.Ajio -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
