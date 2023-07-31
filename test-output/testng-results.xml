@@ -5,12 +5,12 @@
       <![CDATA[opening flipkart]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-07-30T23:46:15 IST" name="Default suite" finished-at="2023-07-30T23:46:28 IST" duration-ms="12390">
+  <suite started-at="2023-07-31T03:19:52 IST" name="Default suite" finished-at="2023-07-31T03:19:58 IST" duration-ms="5824">
     <groups>
     </groups>
-    <test started-at="2023-07-30T23:46:15 IST" name="Default test" finished-at="2023-07-30T23:46:28 IST" duration-ms="12390">
+    <test started-at="2023-07-31T03:19:52 IST" name="Default test" finished-at="2023-07-31T03:19:58 IST" duration-ms="5824">
       <class name="eCommersProject.ChandurkarProjectClass">
-        <test-method signature="M()[pri:0, instance:eCommersProject.ChandurkarProjectClass@223191a6]" started-at="2023-07-30T23:46:15 IST" name="M" finished-at="2023-07-30T23:46:28 IST" duration-ms="12348" status="PASS">
+        <test-method signature="M()[pri:0, instance:eCommersProject.ChandurkarProjectClass@223191a6]" started-at="2023-07-31T03:19:52 IST" name="M" finished-at="2023-07-31T03:19:58 IST" duration-ms="5792" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[opening flipkart]]>

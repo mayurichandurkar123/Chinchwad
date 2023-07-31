@@ -13,8 +13,9 @@ public class ChandurkarProjectClass {
 		Reporter.log("opening flipkart",true);
 		
 		driver.get("https://www.flipkart.com/");
-	Thread.sleep(2000);	
-	driver.close();
+		
+	      Thread.sleep(2000);	
+	      driver.close();
 
 	  
   }
