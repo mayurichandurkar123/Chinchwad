@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[opening meesho]]>
+      <![CDATA[opening flipkart]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-07-31T13:38:42 IST" name="Default suite" finished-at="2023-07-31T13:38:49 IST" duration-ms="7289">
+  <suite started-at="2023-07-31T03:19:52 IST" name="Default suite" finished-at="2023-07-31T03:19:58 IST" duration-ms="5824">
     <groups>
     </groups>
-    <test started-at="2023-07-31T13:38:42 IST" name="Default test" finished-at="2023-07-31T13:38:49 IST" duration-ms="7289">
-      <class name="eCommersProject.Meesho">
-        <test-method signature="meesh()[pri:0, instance:eCommersProject.Meesho@223191a6]" started-at="2023-07-31T13:38:42 IST" name="meesh" finished-at="2023-07-31T13:38:49 IST" duration-ms="7246" status="PASS">
+    <test started-at="2023-07-31T03:19:52 IST" name="Default test" finished-at="2023-07-31T03:19:58 IST" duration-ms="5824">
+      <class name="eCommersProject.ChandurkarProjectClass">
+        <test-method signature="M()[pri:0, instance:eCommersProject.ChandurkarProjectClass@223191a6]" started-at="2023-07-31T03:19:52 IST" name="M" finished-at="2023-07-31T03:19:58 IST" duration-ms="5792" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[opening meesho]]>
+              <![CDATA[opening flipkart]]>
             </line>
           </reporter-output>
-        </test-method> <!-- meesh -->
-      </class> <!-- eCommersProject.Meesho -->
+        </test-method> <!-- M -->
+      </class> <!-- eCommersProject.ChandurkarProjectClass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
