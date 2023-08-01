@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[opening flipkart]]>
-    </line>
   </reporter-output>
-  <suite started-at="2023-07-31T03:19:52 IST" name="Default suite" finished-at="2023-07-31T03:19:58 IST" duration-ms="5824">
+  <suite started-at="2023-08-01T14:14:16 IST" name="Default suite" finished-at="2023-08-01T14:14:16 IST" duration-ms="43">
     <groups>
     </groups>
-    <test started-at="2023-07-31T03:19:52 IST" name="Default test" finished-at="2023-07-31T03:19:58 IST" duration-ms="5824">
-      <class name="eCommersProject.ChandurkarProjectClass">
-        <test-method signature="M()[pri:0, instance:eCommersProject.ChandurkarProjectClass@223191a6]" started-at="2023-07-31T03:19:52 IST" name="M" finished-at="2023-07-31T03:19:58 IST" duration-ms="5792" status="PASS">
+    <test started-at="2023-08-01T14:14:16 IST" name="Default test" finished-at="2023-08-01T14:14:16 IST" duration-ms="43">
+      <class name="eCommersProject.V">
+        <test-method signature="l()[pri:0, instance:eCommersProject.V@7f0eb4b4]" started-at="2023-08-01T14:14:16 IST" name="l" finished-at="2023-08-01T14:14:16 IST" duration-ms="7" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[opening flipkart]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- M -->
-      </class> <!-- eCommersProject.ChandurkarProjectClass -->
+        </test-method> <!-- l -->
+      </class> <!-- eCommersProject.V -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
